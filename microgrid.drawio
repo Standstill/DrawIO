@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-12-10T08:05:16.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RqBzp16mzi2keXW2flOu" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T08:12:52.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="s2OAfZjpvq0SgxpW5MDI" version="12.3.9" type="github" pages="1">
   <diagram id="I5MpxVq-Gbgeys2D7ihi" name="Page-1">
     <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1410" width="460" height="660" as="geometry"/>
+          <mxGeometry x="230" y="1410" width="460" height="560" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-13" value="硬件设备（光伏，电池，PLC...）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="638" y="374" width="380" height="50" as="geometry"/>
@@ -190,8 +190,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="850" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="1130" y="883"/>
-              <mxPoint x="1130" y="230"/>
+              <mxPoint x="1100" y="883"/>
+              <mxPoint x="1100" y="230"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -293,11 +293,11 @@
             <mxPoint x="1610" y="2140" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iLj26o8t3Bhd-I5MfLS2-151" value="设备安装端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-151" value="设备安装端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="2200" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-152" value="资产管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1810" width="120" height="60" as="geometry"/>
+          <mxGeometry x="293" y="1805" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-153" target="iLj26o8t3Bhd-I5MfLS2-156">
           <mxGeometry relative="1" as="geometry"/>
@@ -324,8 +324,8 @@
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-167" target="iLj26o8t3Bhd-I5MfLS2-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="2120"/>
-              <mxPoint x="460" y="2120"/>
+              <mxPoint x="830" y="2060"/>
+              <mxPoint x="460" y="2060"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -333,13 +333,24 @@
           <mxGeometry x="770" y="2200" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-169" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1790" width="153" height="100" as="geometry"/>
+          <mxGeometry x="140" y="1786" width="153" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-170" value="设备列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1770" width="120" height="40" as="geometry"/>
+          <mxGeometry x="22" y="1766" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-171" value="维护保养记录/报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1870" width="120" height="40" as="geometry"/>
+          <mxGeometry x="22" y="1866" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-174" target="iLj26o8t3Bhd-I5MfLS2-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1160" y="1000" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-174" target="iLj26o8t3Bhd-I5MfLS2-91">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-174" value="ADMIN账户系统&lt;br&gt;（创建并管理用户权限）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="820" width="160" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
