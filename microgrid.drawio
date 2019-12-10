@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-12-10T08:22:15.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="B821wiqZqyt7i_blsngr" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T08:22:50.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="AxNJ2mogVMirLR2csgnS" version="12.3.9" type="github" pages="1">
   <diagram id="I5MpxVq-Gbgeys2D7ihi" name="Page-1">
-    <mxGraphModel dx="5632" dy="2992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-141" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1372" width="450" height="458" as="geometry"/>
+          <mxGeometry x="700" y="1372" width="450" height="428" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-13" value="硬件设备（光伏，电池，PLC...）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="718" y="324" width="380" height="50" as="geometry"/>
@@ -340,11 +340,11 @@
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-164" value="设备数据库" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="1980" width="60" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="iLj26o8t3Bhd-I5MfLS2-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-167" target="iLj26o8t3Bhd-I5MfLS2-141">
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-167" target="iLj26o8t3Bhd-I5MfLS2-141">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-167" value="API接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="861" y="1990" width="120" height="60" as="geometry"/>
+          <mxGeometry x="864" y="1990" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-169" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="600" y="1674" width="153" height="100" as="geometry"/>
