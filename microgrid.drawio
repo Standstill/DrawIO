@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-10T08:23:59.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zqegi2n99qqRuD80s3sP" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T08:24:35.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="e_71ZHOAfGjQNL1v86sJ" version="12.3.9" type="github" pages="1">
   <diagram id="I5MpxVq-Gbgeys2D7ihi" name="Page-1">
-    <mxGraphModel dx="4023" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="1496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -365,9 +365,6 @@
         </mxCell>
         <mxCell id="iLj26o8t3Bhd-I5MfLS2-174" value="ADMIN账户系统&lt;br&gt;（创建并管理用户权限）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1330" y="770" width="160" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="iLj26o8t3Bhd-I5MfLS2-181" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="177" y="369" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
