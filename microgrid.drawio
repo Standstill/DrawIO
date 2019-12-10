@@ -1,1 +1,58 @@
-<mxfile host="www.draw.io" modified="2019-12-10T06:25:07.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="9soQhVap82e00W1Zq1DY" version="12.3.9" type="github" pages="1"><diagram id="I5MpxVq-Gbgeys2D7ihi" name="Page-1">ddHNEoIgEADgp+Gu0KSdzerSyUNnRjZhBl0HabSePh0gY6wTy7cLyw9hRTudDe/lFQVoQhMxEXYklKb7XT4PizydZAEao4QvWqFSL/CYeH0oAUNUaBG1VX2MNXYd1DYybgyOcdkdddy15w1soKq53upNCSud5jRb/QKqkaFzuj+4TMtDsb/JILnA8YtYSVhhEK2L2qkAvTxeeBe37vQn+zmYgc7+WDAH697zJPohVr4B</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-10T06:51:44.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="k7GP99nKHsmgsW2DsQ0p" version="12.3.9" type="github" pages="1">
+  <diagram id="I5MpxVq-Gbgeys2D7ihi" name="Page-1">
+    <mxGraphModel dx="670" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-1" value="采集端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-5" value="电柜硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-6" target="iLj26o8t3Bhd-I5MfLS2-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-6" value="其他（不需要远程控制）&lt;br&gt;硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-7" target="iLj26o8t3Bhd-I5MfLS2-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-7" value="PLC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-9" value="主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="70" width="203" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-11" value="采集程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808.5" y="90" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-12" value="控制程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="808.5" y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLj26o8t3Bhd-I5MfLS2-13" target="iLj26o8t3Bhd-I5MfLS2-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-13" value="硬件设备（光伏，电池，PLC）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="740" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="770" width="377" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-15" value="数据采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="790" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-17" value="调度管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="790" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-18" value="IO驱动程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="870" width="377" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="iLj26o8t3Bhd-I5MfLS2-20" value="主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="730" width="377" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
