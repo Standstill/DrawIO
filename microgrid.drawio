@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T07:21:10.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TcV32xqJpkyY7_OltGZM" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-11T07:24:29.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="eIZq62fs7owNdRHnj0WS" version="12.3.9" type="github" pages="4">
   <diagram id="I5MpxVq-Gbgeys2D7ihi" name="产品图">
     <mxGraphModel dx="4693" dy="2493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,37 +436,37 @@
         <mxCell id="V5Wg5XSG-TFaA7oOReAF-32" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;" parent="R18rvhBOlmVxOXz_SpAv-1" vertex="1">
           <mxGeometry x="990" y="174" width="90" height="27" as="geometry"/>
         </mxCell>
-        <mxCell id="V5Wg5XSG-TFaA7oOReAF-50" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="R18rvhBOlmVxOXz_SpAv-1" edge="1">
+        <mxCell id="V5Wg5XSG-TFaA7oOReAF-50" value="数据支撑" style="shape=flexArrow;endArrow=classic;html=1;" parent="R18rvhBOlmVxOXz_SpAv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="759" y="270" as="sourcePoint"/>
             <mxPoint x="758.5" y="210" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5Wg5XSG-TFaA7oOReAF-58" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="R18rvhBOlmVxOXz_SpAv-1" edge="1">
+        <mxCell id="V5Wg5XSG-TFaA7oOReAF-58" value="辅助管理" style="shape=flexArrow;endArrow=classic;html=1;" parent="R18rvhBOlmVxOXz_SpAv-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443.5" y="210" as="sourcePoint"/>
             <mxPoint x="443" y="270" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IepZHips9t9qCH3cerBm-0" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
+        <mxCell id="IepZHips9t9qCH3cerBm-0" value="数据分析展示" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="759" y="480" as="sourcePoint"/>
             <mxPoint x="758.5" y="420" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IepZHips9t9qCH3cerBm-1" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
+        <mxCell id="IepZHips9t9qCH3cerBm-1" value="调度任务" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443.5" y="420" as="sourcePoint"/>
             <mxPoint x="443" y="480" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IepZHips9t9qCH3cerBm-2" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
+        <mxCell id="IepZHips9t9qCH3cerBm-2" value="采集数据" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="759" y="638" as="sourcePoint"/>
             <mxPoint x="758.5" y="578" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IepZHips9t9qCH3cerBm-3" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
+        <mxCell id="IepZHips9t9qCH3cerBm-3" value="硬件设备指令控制" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="R18rvhBOlmVxOXz_SpAv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443.5" y="578" as="sourcePoint"/>
             <mxPoint x="443" y="638" as="targetPoint"/>
